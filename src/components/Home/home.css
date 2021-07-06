@@ -8,7 +8,7 @@
   text-align: center;
   color: white;
 
-  background-image: url(../../cover.jpeg);
+  background-image: url(../../cover1.jpg);
 }
 /* .wrapper {
   background-color: black;
@@ -111,7 +111,7 @@
   width: 70%;
   /* font-size: 16px; */
   border: none;
-  border-radius: 2px;
+  border-radius: 2px 0 0 2px;
 }
 .input:focus {
   outline: 0.5px blue solid;
